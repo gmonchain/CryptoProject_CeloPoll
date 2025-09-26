@@ -1,4 +1,4 @@
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Base](https://img.shields.io/badge/Base-0000ff?style=for-the-badge&logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJ7z1Pbx9cxNP64jV1fzalAqO3bQpi67uZg&s&logoColor=white) ![Farcaster](https://img.shields.io/badge/Farcaster-855DCD?style=for-the-badge&logo=farcaster&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Base](https://img.shields.io/badge/Base-0000ff?style=for-the-badge&logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJ7z1Pbx9cxNP64jV1fzalAqO3bQpi67uZg&s&logoColor=white) ![Farcaster](https://img.shields.io/badge/Farcaster-855DCD?style=for-the-badge&logo=farcaster&logoColor=white)
 
 ## The Problem Celo Poll Solves
 
@@ -34,4 +34,4 @@ Celo Poll tackles these issues head-on by:
 Celo Poll is more than just a voting tool; it's a gateway to a more interactive, transparent, and rewarding on-chain experience.
 
 ## Farcaster Mini App
-Explore FarRank on Farcaster: [https://farcaster.xyz/miniapps/Cd4WmQSF2Xct/farrank](https://farcaster.xyz/miniapps/Cd4WmQSF2Xct/farrank)
+Explore FarRank on Farcaster: [https://farcaster.xyz/miniapps/x3W2qlMP3MP4/celo-poll](https://farcaster.xyz/miniapps/x3W2qlMP3MP4/celo-poll)
