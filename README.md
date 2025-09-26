@@ -28,7 +28,7 @@
 Celo Poll tackles these issues head-on by:
 
 *   **Rewarding Participation:** Every vote cast comes with built-in rewards, directly incentivizing users to engage.
-*   **Ensuring Transparency:** All interactions are powered by a robust smart contract on the **Celo blockchain**, providing verifiable and transparent results. You can view all transactions on [Celoscan](https://celoscan.io/).
+*   **Ensuring Transparency:** All interactions are powered by a robust smart contract on the **Celo blockchain**, providing verifiable and transparent results. You can view all transactions on [Celoscan](https://celoscan.io/address/0xe33d4d3169a451adf1b3ee5f329e09d19957c06d).
 *   **Delivering a Superior User Experience:** Our miniapp features a clean, intuitive, and user-friendly interface, making it incredibly easy for anyone—from crypto natives to blockchain newcomers—to explore and get familiar with the Celo network.
 
 Celo Poll is more than just a voting tool; it's a gateway to a more interactive, transparent, and rewarding on-chain experience.
